@@ -1,2 +1,0 @@
-Hello !! Laoding data through Ajax!!!!!
-Welcome to AJAX.

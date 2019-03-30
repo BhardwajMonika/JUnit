@@ -1,2 +1,0 @@
-INDEX VERSION 1.4+D:\JAVA TRAINING\HTML2\WebContent\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3023630793.index
